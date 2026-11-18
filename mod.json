@@ -1,0 +1,11 @@
+{
+  "id": "http",
+  "name": "HTTP",
+  "author": "0k0k4",
+  "version": "0.1.0",
+  "description": "HTTP/HTTPS requests and JSON for addon and microcontroller scripts: global table `http`.",
+  "main": "sf_http.dll",
+  "dependencies": [],
+  "native_deps": [],
+  "enabled_by_default": false
+}

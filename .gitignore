@@ -1,0 +1,8 @@
+build/
+dist/
+tests/certs/
+*.obj
+*.exp
+*.lib
+*.pdb
+__pycache__/
